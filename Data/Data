@@ -1,0 +1,16 @@
+## Data Availability
+
+The analyses in this repository were conducted using data obtained through
+Wharton Research Data Services (WRDS).
+
+The underlying datasets are subject to licensing and access restrictions and
+cannot be redistributed through this repository.
+
+Researchers with appropriate access may obtain the data directly from WRDS
+and reproduce the results using the code provided here.
+
+This repository includes all scripts necessary to process the source data and
+recreate the analysis dataset, subject to obtaining the required data access.
+
+Data source:
+- WRDS (Wharton Research Data Services)
